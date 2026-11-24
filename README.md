@@ -11,7 +11,7 @@
 
 **Building practical technology projects and exploring how data connects systems, markets, and people.**
 
-[🇧🇷 Português](#português) · [🇺🇸 English](#english) · [Projects](#projects) · [Projetos](#projetos)
+[🇧🇷 Português](#português) · [🇺🇸 English](#english) · [Projects](#featured-projects) · [Projetos](#projetos-em-destaque)
 
 </div>
 
