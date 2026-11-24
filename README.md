@@ -7,9 +7,9 @@
 
 # 🟧 Pedro Gabriel
 
-### Technology Portfolio | Cybersecurity · Networking · Linux · Automation
+### Technology, Cybersecurity & Economics
 
-**Learning by building, documenting, and sharing practical projects.**
+**Building practical technology projects and exploring how data connects systems, markets, and people.**
 
 [🇧🇷 Português](#português) · [🇺🇸 English](#english) · [Projects](#projects) · [Projetos](#projetos)
 
@@ -23,9 +23,9 @@
 
 Sou estudante de **Redes de Computadores** e estou construindo minha trajetória em tecnologia por meio de estudos, laboratórios e projetos práticos.
 
-Tenho interesse especial em **Cibersegurança**, sem deixar de desenvolver conhecimentos em redes, Linux, programação e automação. Gosto de entender o problema, estudar as tecnologias envolvidas, implementar uma solução e documentar o processo.
+Tenho interesse especial em **Cibersegurança**, enquanto desenvolvo conhecimentos em redes, Linux, programação e automação. Também gosto muito de **Economia, mercado financeiro e investimentos**. Quero explorar cada vez mais a conexão entre essas áreas — por exemplo, usando programação, automação e análise de dados para compreender informações econômicas e financeiras.
 
-Este GitHub reúne minha evolução técnica: projetos independentes, experimentos, laboratórios e materiais de aprendizagem. Os repositórios são documentados em português e inglês sempre que possível.
+Gosto de entender problemas, estudar as tecnologias envolvidas, implementar soluções e documentar o processo. Este GitHub reúne minha evolução: projetos independentes, experimentos, laboratórios e materiais de aprendizagem. Os repositórios são documentados em português e inglês sempre que possível.
 
 ### 🧭 Áreas de interesse e desenvolvimento
 
@@ -34,7 +34,8 @@ Este GitHub reúne minha evolução técnica: projetos independentes, experiment
 | 🛡️ Cibersegurança | Fundamentos de segurança, análise de riscos, práticas e laboratórios |
 | 🌐 Redes | TCP/IP, DNS, DHCP, endereçamento, roteamento e diagnóstico |
 | 🐧 Linux & Infraestrutura | Terminal, Bash, permissões, serviços e virtualização |
-| ⚙️ Desenvolvimento & Automação | Python, automação de navegador, APIs, dados e Excel |
+| ⚙️ Desenvolvimento & Automação | Python, automação de navegador, APIs, processamento de dados e Excel |
+| 📊 Economia & Mercado Financeiro | Economia, indicadores, mercado de capitais, investimentos e análise de dados financeiros |
 
 ### 🧰 Tecnologias e ferramentas
 
@@ -44,7 +45,13 @@ Este GitHub reúne minha evolução técnica: projetos independentes, experiment
 
 **Qualidade e colaboração:** Git, GitHub, pytest, pytest-cov, Ruff, GitHub Actions
 
-> Esta lista reúne tecnologias que já utilizei em atividades e projetos ou que fazem parte do meu processo de aprendizagem. Ela não representa domínio avançado de todas elas.
+> Esta lista reúne tecnologias que já utilizei em atividades e projetos ou que fazem parte do meu processo de aprendizagem. Ela não representa domínio avançado de todas elas. Economia e mercado financeiro são também áreas de interesse e estudo; não apresento este perfil como pesquisa financeira ou recomendação de investimentos.
+
+### 🔎 A conexão entre tecnologia e economia
+
+Tenho curiosidade em explorar como ferramentas tecnológicas podem apoiar o estudo de temas econômicos e financeiros. Entre os assuntos que quero aprofundar estão análise de dados, indicadores econômicos, visualização de informações, automação de tarefas financeiras e funcionamento dos mercados.
+
+A ideia é desenvolver projetos demonstrativos e educacionais nessa interseção, deixando claras as fontes de dados, as premissas e as limitações de cada análise.
 
 ### 🚀 Projetos em destaque
 
@@ -61,10 +68,11 @@ Os projetos são independentes e utilizam ambientes demonstrativos ou dados sint
 - Formação técnica em **Redes de Computadores**.
 - Cisco Networking Academy — **Linux Unhatched**.
 - Estudos de fundamentos de Cibersegurança, redes, Linux e programação.
+- Interesse contínuo em Economia, mercado financeiro e investimentos.
 
 ### 🎯 Objetivo
 
-Construir uma base técnica consistente e evoluir profissionalmente em Cibersegurança, mantendo a capacidade de desenvolver soluções, automatizar processos e compreender a infraestrutura que sustenta os sistemas.
+Construir uma base técnica consistente e evoluir profissionalmente em Cibersegurança e tecnologia, mantendo espaço para desenvolver projetos que conectem programação, automação, dados e Economia. Quero compreender tanto os sistemas e infraestruturas quanto os contextos econômicos em que a tecnologia é aplicada.
 
 ---
 
@@ -74,9 +82,9 @@ Construir uma base técnica consistente e evoluir profissionalmente em Cibersegu
 
 I am a **Computer Networks student** building my path in technology through structured learning, hands-on labs, and practical projects.
 
-My main area of interest is **Cybersecurity**, while I continue developing skills in networking, Linux, programming, and automation. I enjoy understanding a problem, exploring the technologies involved, implementing a solution, and documenting the process.
+My main area of interest is **Cybersecurity**, while I continue developing skills in networking, Linux, programming, and automation. I am also genuinely interested in **Economics, financial markets, and investing**. I want to explore the connections between these fields — for example, using programming, automation, and data analysis to understand economic and financial information.
 
-This GitHub profile brings together my technical progress: independent projects, experiments, labs, and learning resources. I aim to provide documentation in both Portuguese and English whenever possible.
+I enjoy understanding problems, exploring the technologies involved, implementing solutions, and documenting the process. This GitHub profile brings together my progress: independent projects, experiments, labs, and learning resources. I aim to provide documentation in both Portuguese and English whenever possible.
 
 ### 🧭 Areas of interest and development
 
@@ -86,6 +94,7 @@ This GitHub profile brings together my technical progress: independent projects,
 | 🌐 Networking | TCP/IP, DNS, DHCP, addressing, routing, and troubleshooting |
 | 🐧 Linux & Infrastructure | Command line, Bash, permissions, services, and virtualization |
 | ⚙️ Software & Automation | Python, browser automation, APIs, data processing, and Excel |
+| 📊 Economics & Financial Markets | Economics, indicators, capital markets, investing, and financial data analysis |
 
 ### 🧰 Technologies and tools
 
@@ -95,7 +104,13 @@ This GitHub profile brings together my technical progress: independent projects,
 
 **Quality and collaboration:** Git, GitHub, pytest, pytest-cov, Ruff, GitHub Actions
 
-> This list includes technologies I have used in activities and projects or am currently learning. It does not imply advanced proficiency in every item.
+> This list includes technologies I have used in activities and projects or am currently learning. It does not imply advanced proficiency in every item. Economics and financial markets are also areas of personal interest and study; this profile is not financial research or investment advice.
+
+### 🔎 Connecting technology and economics
+
+I am curious about how technology can support the study of economic and financial topics. Areas I want to explore further include data analysis, economic indicators, information visualization, financial task automation, and how markets work.
+
+My goal is to build demonstrative and educational projects at this intersection, while clearly documenting data sources, assumptions, and limitations.
 
 ### 🚀 Featured projects
 
@@ -112,10 +127,11 @@ These projects are independent and use demo environments or synthetic data. I do
 - Technical education in **Computer Networks**.
 - Cisco Networking Academy — **Linux Unhatched**.
 - Ongoing studies in Cybersecurity fundamentals, networking, Linux, and programming.
+- Continued interest in Economics, financial markets, and investing.
 
 ### 🎯 Goal
 
-Build a strong technical foundation and grow professionally in Cybersecurity, while maintaining the ability to develop solutions, automate processes, and understand the infrastructure behind the systems.
+Build a strong technical foundation and grow professionally in Cybersecurity and technology, while making room for projects that connect programming, automation, data, and Economics. I want to understand both the systems and infrastructure and the economic contexts in which technology is applied.
 
 ---
 
